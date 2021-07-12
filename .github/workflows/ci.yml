@@ -3,17 +3,12 @@ name: CI
 on: [push]
 
 jobs: # 工作流
-  build: # 自定义名称
+  test-action: # 自定义名称
     runs-on: ubuntu-latest #运行在虚拟机环境ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [14.x]
-
     steps: # 步骤
       - name: generate-snake-game-from-github-contribution-grid
-      - id: snake-gif
-      - uses: Platane/snk@master
+        id: snake-gif
+        uses: Platane/snk@master
         with:
           # github user name to read the contribution graph from (**required**)
           github_user_name: JS-banana
