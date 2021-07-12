@@ -1,16 +1,16 @@
 # Hi there :clap:
 
-- :sunny: I'm currently working on...
+- :sunny: I'm currently learning and working on...
 
-- :laughing: I'm currently learning...
+<!-- - :laughing: I'm currently learning... -->
 
-- :open_mouth: QQ：***1214756519***
+<!-- - :open_mouth: QQ：***1214756519*** -->
 
 - :raised_hand: WeChat：***sunsscode***
 
 - :sparkles: Blog：[https://ssscode.com/](https://ssscode.com/)
 
-- :running: Me：[https://me.ssscode.com/](https://me.ssscode.com/)
+<!-- - :running: Me：[https://me.ssscode.com/](https://me.ssscode.com/) -->
 
 - :telescope: Aphorism：To live alone is the fate of all great souls
 
