@@ -26,7 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![weixin](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png)
+<img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" />
 
 [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
