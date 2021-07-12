@@ -1,0 +1,37 @@
+name: CI
+
+on: [push]
+
+jobs: # 工作流
+  build: # 自定义名称
+    runs-on: ubuntu-latest #运行在虚拟机环境ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [14.x]
+
+    steps: # 步骤
+      - name: generate-snake-game-from-github-contribution-grid
+      - id: snake-gif
+      - uses: Platane/snk@master
+        with:
+          # github user name to read the contribution graph from (**required**)
+          github_user_name: JS-banana
+
+          # path of the generated gif file
+          # If left empty, the gif file will not be generated
+          gif_out_path: dist/github-snake.gif
+
+          # path of the generated svg file
+          # If left empty, the svg file will not be generated
+          svg_out_path: dist/github-snake.svg
+      # - name: ensure the generated file exists
+      #   run: |
+      #     ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
+      #     test -f ${{ steps.snake-gif.outputs.gif_out_path }}
+      # - uses: crazy-max/ghaction-github-pages@v2.5.0
+      #   with:
+      #     target_branch: output
+      #     build_dir: dist
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
