@@ -1,4 +1,4 @@
-### Hi 我是小帅 :clap:
+### Hi 我是小帅 :clap
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)
 
@@ -26,8 +26,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" />
+<!-- <img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" /> -->
 
-[![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-banana&hide=TeX&layout=compact)
 
 ![github contribution grid snake animation](https://github.com/JS-banana/JS-banana/blob/output/github-contribution-grid-snake.svg)
