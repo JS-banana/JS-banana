@@ -1,4 +1,4 @@
-### Hi 我是小帅 :clap
+### Hello, 我是小帅! 👋
 
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)
 
@@ -8,13 +8,13 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-:sunny: I'm currently learning and working on...
+<!-- :sunny: I'm currently learning and working on... -->
 
-:fire: To live alone is the fate of all great souls
+<!-- :fire: To live alone is the fate of all great souls
 
 :raised_hand: 掘金：[https://juejin.cn/user/1204720476890477](https://juejin.cn/user/1204720476890477)
 
-:sparkles: 博客：[https://ssscode.com/](https://ssscode.com/)
+:sparkles: 博客：[https://ssscode.com/](https://ssscode.com/) -->
 
 <!-- **Languages and Tools:**   -->
 
