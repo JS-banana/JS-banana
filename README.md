@@ -1,12 +1,14 @@
 ### Hello, 我是小帅! 👋
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)
+[![juejin](https://img.shields.io/badge/juejin-sssgoEasy-blue)](https://juejin.cn/user/1204720476890477)
+[![juejin](https://img.shields.io/badge/blog-%E5%B0%8F%E5%B8%85%E3%81%AE%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-orange)](https://juejin.cn/user/1204720476890477)
 
 <!-- :sunny: I'm currently learning and working on... -->
 
