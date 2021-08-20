@@ -24,6 +24,43 @@
 <!-- <img height="120" src="https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/4.png" /> -->
 
 <!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<table width="800px">
+<tr>
+<td valign="top" width="50%">
+
+#### 🏊‍♂️ <a href="https://gist.github.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
+
+<!-- code_time starts -->
+```
+TypeScript 3 hrs 1 min    ████████████▏░░░░░░░░  58.0%
+Markdown   38 mins        ██▌░░░░░░░░░░░░░░░░░░  12.2%
+JSON       37 mins        ██▌░░░░░░░░░░░░░░░░░░  12.1%
+JavaScript 27 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Other      13 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+```
+<!-- code_time ends -->
+</td>
+
+<td valign="top" width="50%">
+
+#### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
+
+<!-- blog starts -->
+
+- [【webpack】搭建一个react+ts的标准化项目](https://ssscode.com/pages/c3ea73/) - 2021-08-18
+- [项目开发的一些思考](https://ssscode.com/pages/728e7d/) - 2021-08-13
+- [发布订阅模式vs观察者模式](https://ssscode.com/pages/911929/) - 2021-07-18
+- [【rollup】构建发布一个npm包](https://ssscode.com/pages/b849f8/) - 2021-07-09
+- [【vite】构建标准化react应用](https://ssscode.com/pages/428be4/) - 2021-07-09
+
+<!-- blog ends -->
+
+</td>
+</tr>
+
+</table>
+
 <p>
   <img
   width="334"
