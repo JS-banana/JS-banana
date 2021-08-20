@@ -44,7 +44,7 @@ Other      13 mins        ▉░░░░░░░░░░░░░░░░░
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://jasonkayzk.github.io/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 
