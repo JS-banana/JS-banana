@@ -1,0 +1,25 @@
+{
+  "name": "github-bio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toXml.js",
+  "scripts": {
+    "build:xml":"node ./toXml.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-banana/JS-banana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-banana/JS-banana/issues"
+  },
+  "homepage": "https://github.com/JS-banana/JS-banana#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
