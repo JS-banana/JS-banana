@@ -1,9 +1,14 @@
 name: Build README
 
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     - cron: "30 0 * * *" # 每天 0：30 时运行
+
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "30 0 * * *" # 每天 0：30 时运行
+  push:
+    branches:
+      - master
 
 jobs:
   build:
