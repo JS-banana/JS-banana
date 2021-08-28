@@ -6,7 +6,7 @@ import re
 import os
 import datetime
 
-blog_feed_url = "./atom.xml"
+blog_feed_url = "https://ssscode.com/atom.xml"
 wakatime_raw_url = "https://gist.githubusercontent.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc/raw/"
 
 root = pathlib.Path(__file__).parent.resolve()
