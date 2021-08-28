@@ -49,11 +49,11 @@ JSON       1 hr 27 mins   ▉░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/627866/' target='_blank'>类型检测</a> - 2021-08-28 08:32:25
-* <a href='https://ssscode.com/pages/b65071/' target='_blank'>JavaScript加减乘除精度问题</a> - 2021-08-28 08:32:25
-* <a href='https://ssscode.com/pages/95b01d/' target='_blank'>Promise&Generator;&Async; 异步函数剖析</a> - 2021-08-28 08:32:25
-* <a href='https://ssscode.com/pages/b98f79/' target='_blank'>面试内容梳理</a> - 2021-08-28 08:32:25
-* <a href='https://ssscode.com/pages/f714cb/' target='_blank'>性能优化-图片优化</a> - 2021-08-28 08:32:25
+* <a href='https://ssscode.com/pages/627866/' target='_blank'>类型检测</a> - 2021-08-28
+* <a href='https://ssscode.com/pages/b65071/' target='_blank'>JavaScript加减乘除精度问题</a> - 2021-08-28
+* <a href='https://ssscode.com/pages/95b01d/' target='_blank'>Promise&Generator;&Async; 异步函数剖析</a> - 2021-08-28
+* <a href='https://ssscode.com/pages/b98f79/' target='_blank'>面试内容梳理</a> - 2021-08-28
+* <a href='https://ssscode.com/pages/f714cb/' target='_blank'>性能优化-图片优化</a> - 2021-08-28
 <!-- blog ends -->
 
 </td>
