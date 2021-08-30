@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 22 hrs 18 mins ██████████████░░░░░░░  66.8%
-JavaScript 4 hrs 44 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
-LESS       2 hrs 11 mins  █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Markdown   1 hr 42 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
-JSON       1 hr 27 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+TypeScript 22 hrs 18 mins ████████████▎░░░░░░░░  58.4%
+JavaScript 8 hrs 10 mins  ████▍░░░░░░░░░░░░░░░░  21.4%
+LESS       2 hrs 11 mins  █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Markdown   2 hrs 3 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
+JSON       1 hr 38 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ JSON       1 hr 27 mins   ▉░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/627866/' target='_blank'>类型检测</a> - 2021-08-28
-* <a href='https://ssscode.com/pages/b65071/' target='_blank'>JavaScript加减乘除精度问题</a> - 2021-08-28
-* <a href='https://ssscode.com/pages/95b01d/' target='_blank'>Promise&Generator;&Async; 异步函数剖析</a> - 2021-08-28
-* <a href='https://ssscode.com/pages/b98f79/' target='_blank'>面试内容梳理</a> - 2021-08-28
-* <a href='https://ssscode.com/pages/f714cb/' target='_blank'>性能优化-图片优化</a> - 2021-08-28
+* <a href='https://ssscode.com/pages/a77f8b/' target='_blank'>前端书籍推荐</a> - 2021-08-27
+* <a href='https://ssscode.com/pages/c3ea73/' target='_blank'>【webpack】构建标准化react应用</a> - 2021-08-18
+* <a href='https://ssscode.com/pages/728e7d/' target='_blank'>项目开发的一些思考</a> - 2021-08-13
+* <a href='https://ssscode.com/pages/911929/' target='_blank'>发布订阅模式vs观察者模式</a> - 2021-07-18
+* <a href='https://ssscode.com/pages/b849f8/' target='_blank'>【rollup】构建发布一个npm包</a> - 2021-07-09
 <!-- blog ends -->
 
 </td>
