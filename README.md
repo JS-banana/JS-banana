@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 20 hrs         ████████████████▊░░░░  80.2%
-Markdown   2 hrs 44 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-JavaScript 57 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-LESS       50 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-JSON       13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+TypeScript 20 hrs 1 min   █████████████▌░░░░░░░  64.7%
+Markdown   8 hrs 29 mins  █████▊░░░░░░░░░░░░░░░  27.5%
+JavaScript 1 hr 1 min     ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+LESS       50 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ JSON       13 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/7722fd/' target='_blank'>Python + Atom订阅源 实现自动把博客信息更新至GitHub主页</a> - 2021-09-11
+* <a href='https://ssscode.com/pages/5b52be/' target='_blank'>GitHub + Coding 实现博客快速自动化部署</a> - 2021-09-11
 * <a href='https://ssscode.com/pages/a77f8b/' target='_blank'>前端书籍推荐</a> - 2021-08-27
-* <a href='https://ssscode.com/pages/c3ea73/' target='_blank'>【webpack】构建标准化react应用</a> - 2021-08-18
+* <a href='https://ssscode.com/pages/c3ea73/' target='_blank'>Webpack + React + TypeScript 构建一个标准化应用</a> - 2021-08-18
 * <a href='https://ssscode.com/pages/728e7d/' target='_blank'>项目开发的一些思考</a> - 2021-08-13
-* <a href='https://ssscode.com/pages/911929/' target='_blank'>发布订阅模式vs观察者模式</a> - 2021-07-18
-* <a href='https://ssscode.com/pages/b849f8/' target='_blank'>【rollup】构建发布一个npm包</a> - 2021-07-09
 <!-- blog ends -->
 
 </td>
