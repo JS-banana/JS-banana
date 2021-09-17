@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 27 hrs 16 mins ████████████▍░░░░░░░░  59.0%
-Markdown   15 hrs 40 mins ███████░░░░░░░░░░░░░░  33.9%
-JavaScript 1 hr 26 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JSON       44 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-YAML       15 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+TypeScript 27 hrs 17 mins ████████████▎░░░░░░░░  58.4%
+Markdown   16 hrs 3 mins  ███████▏░░░░░░░░░░░░░  34.4%
+JavaScript 1 hr 6 mins    ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+JSON       52 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+LESS       28 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time ends -->
@@ -50,8 +50,8 @@ YAML       15 mins        ░░░░░░░░░░░░░░░░░░
 
 <!-- blog starts -->
 * <a href='https://ssscode.com/pages/413e1f/' target='_blank'>JavaScript事件通信研究</a> - 2021-09-12
-* <a href='https://ssscode.com/pages/7722fd/' target='_blank'>Python + Atom订阅源 实现自动把博客信息更新至GitHub主页</a> - 2021-09-11
-* <a href='https://ssscode.com/pages/5b52be/' target='_blank'>GitHub + Coding 实现博客快速自动化部署</a> - 2021-09-11
+* <a href='https://ssscode.com/pages/7722fd/' target='_blank'>Python库Feedparser+Atom订阅源的妙用</a> - 2021-09-11
+* <a href='https://ssscode.com/pages/5b52be/' target='_blank'>GitHub和Coding双管齐下白嫖一个网站</a> - 2021-09-11
 * <a href='https://ssscode.com/pages/a77f8b/' target='_blank'>前端书籍推荐</a> - 2021-08-27
 * <a href='https://ssscode.com/pages/c3ea73/' target='_blank'>Webpack + React + TypeScript 构建一个标准化应用</a> - 2021-08-18
 <!-- blog ends -->
