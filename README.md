@@ -49,7 +49,11 @@ LESS       28 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
+* <a href='https://ssscode.com/pages/413e1f/' target='_blank'>JavaScript事件通信研究</a> - 2021-09-12
+* <a href='https://ssscode.com/pages/7722fd/' target='_blank'>Python库Feedparser+Atom订阅源的妙用</a> - 2021-09-11
+* <a href='https://ssscode.com/pages/5b52be/' target='_blank'>GitHub和Coding双管齐下白嫖一个网站</a> - 2021-09-11
+* <a href='https://ssscode.com/pages/a77f8b/' target='_blank'>前端书籍推荐</a> - 2021-08-27
+* <a href='https://ssscode.com/pages/c3ea73/' target='_blank'>Webpack + React + TypeScript 构建一个标准化应用</a> - 2021-08-18
 <!-- blog ends -->
 
 </td>
