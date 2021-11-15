@@ -49,11 +49,11 @@ LESS       28 mins        ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/d42185/' target='_blank'>NodeJs获取照片信息并分类</a> - 2021-11-14
 * <a href='https://ssscode.com/pages/34f09d/' target='_blank'>新一代ORM-Prisma</a> - 2021-10-27
 * <a href='https://ssscode.com/pages/8dab58/' target='_blank'>记忆函数 memoize</a> - 2021-10-13
 * <a href='https://ssscode.com/pages/8b7d10/' target='_blank'>JavaScript数组方法reduce的妙用</a> - 2021-09-30
 * <a href='https://ssscode.com/pages/1c6866/' target='_blank'>性能爆表的SolidJs</a> - 2021-09-22
-* <a href='https://ssscode.com/pages/6e5f36/' target='_blank'>前端大神器——puppeteer无头浏览器</a> - 2021-09-22
 <!-- blog ends -->
 
 </td>
