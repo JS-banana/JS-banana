@@ -39,10 +39,9 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        with:
-          path: packages/wakatime
-          key: cd_path
-        run: npm install
+        run: |
+          cd packages/wakatime
+          npm install
 
       - name: Update gist
         env:
