@@ -2,7 +2,7 @@
 import dotenv from "dotenv";
 dotenv.config();
 // Github API 工具：Octokit
-import Octokit from "@octokit/rest";
+import { Octokit } from "@octokit/rest";
 // fetch
 import fetch from "node-fetch";
 import { trimRightStr, generateBarChart } from "./util.js";
