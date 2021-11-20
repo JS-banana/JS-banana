@@ -6,9 +6,7 @@ import { Octokit } from "@octokit/rest";
 // fetch
 import fetch from "node-fetch";
 import { trimRightStr, generateBarChart } from "./util.js";
-import { data } from "./mock.js";
 import fs from "fs/promises";
-import path from "path";
 
 // 常量
 // https://wakatime.com/developers
@@ -48,41 +46,42 @@ export async function updateGist(stats) {
 
   if (lines.length == 0) return;
 
-  const writeSatus = await fs.writeFile("./time.txt", lines.join("\n"));
-  console.log("writeSatus", writeSatus);
+  await fs.writeFile("./time.txt", lines.join("\n"));
+  console.log("写入 time.txt 成功");
 
   // TODO： octokit授权问题 401
+  console.log("开始上传到gist====>");
 
-  // try {
-  //   // Get original filename to update that same file
-  //   const filename = Object.keys(gist.data.files)[0];
-  //   await octokit.rest.gists.update({
-  //     gist_id: gistId,
-  //     files: {
-  //       [filename]: {
-  //         filename: `📊 Weekly development breakdown`,
-  //         content: lines.join("\n"),
-  //       },
-  //     },
-  //   });
-  // } catch (error) {
-  //   console.error(`Unable to update gist\n${error}`);
-  // }
+  try {
+    // Get original filename to update that same file
+    const filename = Object.keys(gist.data.files)[0];
+    await octokit.rest.gists.update({
+      gist_id: gistId,
+      files: {
+        [filename]: {
+          filename: `📊 Weekly development breakdown`,
+          content: lines.join("\n"),
+        },
+      },
+    });
+  } catch (error) {
+    console.error(`Unable to update gist\n${error}`);
+  }
 }
 
 // 执行主函数
 async function main() {
   try {
-    // const response = await fetch(URL, {
-    //   method: "get",
-    //   headers: {
-    //     Authorization,
-    //   },
-    //   // timeout: 30000,
-    // });
-    // const stats = await response.json();
-    // console.log("请求成功：", stats);
-    await updateGist(data);
+    const response = await fetch(URL, {
+      method: "get",
+      headers: {
+        Authorization,
+      },
+      // timeout: 30000,
+    });
+    const stats = await response.json();
+    console.log("请求成功：", stats);
+    await updateGist(stats);
     console.log("完成===>");
   } catch (error) {
     console.log("请求失败：", error);
