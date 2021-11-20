@@ -24,12 +24,12 @@ async function main() {
     });
     const stats = await response.json();
     console.log("请求成功：", stats);
+    console.log("updateGist===>");
+    await updateGist(stats, gistId, githubToken);
+    console.log("完成===>");
   } catch (error) {
     console.log("请求失败：", error);
   }
-  console.log("updateGist===>");
-  await updateGist(stats, gistId, githubToken);
-  console.log("完成===>");
 }
 
 (async () => {
