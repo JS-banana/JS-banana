@@ -39,13 +39,12 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install dependencies
-        id: cd_path
         with:
           path: packages/wakatime
-      - run: npm install
+          key: cd_path
+        run: npm install
 
       - name: Update gist
-        id: update_gist
         env:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIST_ID: b4b79e0deb0164edaae772ecbc5bd8bc
