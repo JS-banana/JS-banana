@@ -38,14 +38,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Install dependencies
-        run: |
-          cd packages/wakatime
-          npm install
-
       - name: Update gist
         env:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIST_ID: b4b79e0deb0164edaae772ecbc5bd8bc
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: npm run build
+        run: bash wakatime.sh
