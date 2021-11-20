@@ -1,9 +1,11 @@
+# 贪吃蛇动画 snk
+
 name: generate animation
 
 # on: [push]
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 0 * * *"
 
 jobs:
   generate:

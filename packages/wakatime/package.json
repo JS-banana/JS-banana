@@ -1,0 +1,16 @@
+{
+  "name": "waka-box",
+  "version": "3.0.0",
+  "description": "📊 Update a gist to contain your weekly WakaTime stats",
+  "author": "Matan Kushner <hello@matchai.me>",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "build": "node ./src/index.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "16.36.0",
+    "dotenv": "8.2.0",
+    "node-fetch": "^3.1.0"
+  }
+}
