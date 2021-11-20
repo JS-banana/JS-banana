@@ -6,12 +6,15 @@ import { Octokit } from "@octokit/rest";
 // fetch
 import fetch from "node-fetch";
 import { trimRightStr, generateBarChart } from "./util.js";
+import { data } from "./mock.js";
+import fs from "fs/promises";
+import path from "path";
 
 // 常量
 // https://wakatime.com/developers
 const URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days";
 const { GIST_ID: gistId, GH_TOKEN: githubToken, WAKATIME_API_KEY: wakatimeApiKey } = process.env;
-const octokit = new Octokit({ auth: `token ${githubToken}` });
+const octokit = new Octokit({ auth: githubToken, log: console });
 
 // Key 需要经过 base64 编码
 const Authorization = `Basic ${Buffer.from(wakatimeApiKey).toString("base64")}`;
@@ -20,7 +23,8 @@ const Authorization = `Basic ${Buffer.from(wakatimeApiKey).toString("base64")}`;
 export async function updateGist(stats) {
   let gist;
   try {
-    gist = await octokit.gists.get({ gist_id: gistId });
+    gist = await octokit.rest.gists.get({ gist_id: gistId });
+    console.log("gist", gist);
   } catch (error) {
     console.error(`Unable to get gist\n${error}`);
   }
@@ -44,36 +48,41 @@ export async function updateGist(stats) {
 
   if (lines.length == 0) return;
 
-  try {
-    // Get original filename to update that same file
-    const filename = Object.keys(gist.data.files)[0];
-    await octokit.gists.update({
-      gist_id: gistId,
-      files: {
-        [filename]: {
-          filename: `📊 Weekly development breakdown`,
-          content: lines.join("\n"),
-        },
-      },
-    });
-  } catch (error) {
-    console.error(`Unable to update gist\n${error}`);
-  }
+  const writeSatus = await fs.writeFile("./time.txt", lines.join("\n"));
+  console.log("writeSatus", writeSatus);
+
+  // TODO： octokit授权问题 401
+
+  // try {
+  //   // Get original filename to update that same file
+  //   const filename = Object.keys(gist.data.files)[0];
+  //   await octokit.rest.gists.update({
+  //     gist_id: gistId,
+  //     files: {
+  //       [filename]: {
+  //         filename: `📊 Weekly development breakdown`,
+  //         content: lines.join("\n"),
+  //       },
+  //     },
+  //   });
+  // } catch (error) {
+  //   console.error(`Unable to update gist\n${error}`);
+  // }
 }
 
 // 执行主函数
 async function main() {
   try {
-    const response = await fetch(URL, {
-      method: "get",
-      headers: {
-        Authorization,
-      },
-      // timeout: 30000,
-    });
-    const stats = await response.json();
-    console.log("请求成功：", stats);
-    await updateGist(stats);
+    // const response = await fetch(URL, {
+    //   method: "get",
+    //   headers: {
+    //     Authorization,
+    //   },
+    //   // timeout: 30000,
+    // });
+    // const stats = await response.json();
+    // console.log("请求成功：", stats);
+    await updateGist(data);
     console.log("完成===>");
   } catch (error) {
     console.log("请求失败：", error);
