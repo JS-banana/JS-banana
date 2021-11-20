@@ -43,4 +43,4 @@ jobs:
           GH_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIST_ID: b4b79e0deb0164edaae772ecbc5bd8bc
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: bash packages/wakatime/wakatime.sh
+        run: bash wakatime.sh
