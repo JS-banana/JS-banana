@@ -26,7 +26,7 @@ def replace_chunk(content, marker, chunk, inline=False):
 
 def fetch_code_time():
     timeTxt = root / "packages/wakatime/time.txt"
-    timeTxt_contents = readme.open(encoding='UTF-8').read()
+    timeTxt_contents = timeTxt.open(encoding='UTF-8').read()
     return timeTxt_contents
 
 
