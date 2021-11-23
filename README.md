@@ -49,11 +49,11 @@ Markdown   1 hr 58 mins   ▊░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/2833ad/' target='_blank'>【vite】构建vite + vue3 + setup + ts 项目</a> - 2021-11-22
 * <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
 * <a href='https://ssscode.com/pages/d42185/' target='_blank'>NodeJs获取照片信息并分类</a> - 2021-11-14
 * <a href='https://ssscode.com/pages/34f09d/' target='_blank'>新一代ORM-Prisma</a> - 2021-10-27
 * <a href='https://ssscode.com/pages/8dab58/' target='_blank'>记忆函数 memoize</a> - 2021-10-13
-* <a href='https://ssscode.com/pages/8b7d10/' target='_blank'>JavaScript数组方法reduce的妙用</a> - 2021-09-30
 <!-- blog ends -->
 
 </td>
