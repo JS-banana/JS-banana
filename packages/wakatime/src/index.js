@@ -11,8 +11,11 @@ import fs from "fs/promises";
 // 常量
 // https://wakatime.com/developers
 const URL = "https://wakatime.com/api/v1/users/current/stats/last_7_days";
-const { GIST_ID: gistId, GH_TOKEN: githubToken, WAKATIME_API_KEY: wakatimeApiKey } = process.env;
-const octokit = new Octokit({ auth: githubToken, log: console });
+const { GIST_ID: gistId, GIST_TOKEN: githubToken, WAKATIME_API_KEY: wakatimeApiKey } = process.env;
+const octokit = new Octokit({
+  auth: githubToken,
+  log: console,
+});
 
 // Key 需要经过 base64 编码
 const Authorization = `Basic ${Buffer.from(wakatimeApiKey).toString("base64")}`;
