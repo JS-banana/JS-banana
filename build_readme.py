@@ -50,7 +50,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding='UTF-8').read()
 
-    code_time_text = "\n```text\n"+fetch_code_time().text()+"\n```\n"
+    code_time_text = "\n```text\n"+fetch_code_time().text+"\n```\n"
     rewritten = replace_chunk(readme_contents, "code_time", code_time_text)
 
     entries = fetch_blog_entries()[:5]
