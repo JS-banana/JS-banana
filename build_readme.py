@@ -7,7 +7,7 @@ import os
 import datetime
 
 blog_feed_url = "https://ssscode.com/atom.xml"
-# wakatime_raw_url = "https://gist.githubusercontent.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc/raw/"
+wakatime_raw_url = "https://gist.githubusercontent.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc/raw/"
 
 root = pathlib.Path(__file__).parent.resolve()
 
@@ -24,10 +24,14 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+# 已废弃：读取项目下文件的方案
+# def fetch_code_time():
+#     timeTxt = root / "packages/wakatime/time.txt"
+#     timeTxt_contents = timeTxt.open(encoding='UTF-8').read()
+#     return timeTxt_contents
+
 def fetch_code_time():
-    timeTxt = root / "packages/wakatime/time.txt"
-    timeTxt_contents = timeTxt.open(encoding='UTF-8').read()
-    return timeTxt_contents
+    return httpx.get(wakatime_raw_url)
 
 
 def fetch_blog_entries():
@@ -46,7 +50,7 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open(encoding='UTF-8').read()
 
-    code_time_text = "\n```text\n"+fetch_code_time()+"\n```\n"
+    code_time_text = "\n```text\n"+fetch_code_time().text()+"\n```\n"
     rewritten = replace_chunk(readme_contents, "code_time", code_time_text)
 
     entries = fetch_blog_entries()[:5]
