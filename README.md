@@ -34,10 +34,10 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     17 hrs 26 mins ██████████▏░░░░░░░░░░  48.3%
-TypeScript 11 hrs 59 mins ██████▉░░░░░░░░░░░░░░  33.2%
-Markdown   5 hrs 8 mins   ██▉░░░░░░░░░░░░░░░░░░  14.3%
-JavaScript 50 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Vue.js     17 hrs 26 mins █████████▊░░░░░░░░░░░  46.6%
+TypeScript 11 hrs 59 mins ██████▋░░░░░░░░░░░░░░  32.0%
+Markdown   5 hrs 40 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
+JavaScript 1 hr 25 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 JSON       33 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
