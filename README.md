@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Vue.js     17 hrs 26 mins █████████▊░░░░░░░░░░░  46.6%
-TypeScript 11 hrs 59 mins ██████▋░░░░░░░░░░░░░░  32.0%
-Markdown   5 hrs 40 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
-JavaScript 1 hr 25 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON       33 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Vue.js     18 hrs 31 mins ██████████░░░░░░░░░░░  47.9%
+TypeScript 13 hrs 33 mins ███████▎░░░░░░░░░░░░░  35.0%
+Markdown   4 hrs 13 mins  ██▎░░░░░░░░░░░░░░░░░░  10.9%
+JavaScript 1 hr 25 mins   ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+JSON       25 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ JSON       33 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/33f292/' target='_blank'>vue3使用总结</a> - 2021-11-29
 * <a href='https://ssscode.com/pages/2833ad/' target='_blank'>【vite】vite + vue3 + setup + pinia + ts</a> - 2021-11-22
 * <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
-* <a href='https://ssscode.com/pages/d42185/' target='_blank'>NodeJs获取照片信息、按日期分类、缩略图生成</a> - 2021-11-14
+* <a href='https://ssscode.com/pages/d42185/' target='_blank'>NodeJs获取照片信息并分类、缩略图生成</a> - 2021-11-14
 * <a href='https://ssscode.com/pages/34f09d/' target='_blank'>新一代ORM-Prisma</a> - 2021-10-27
-* <a href='https://ssscode.com/pages/8dab58/' target='_blank'>记忆函数 memoize</a> - 2021-10-13
 <!-- blog ends -->
 
 </td>
