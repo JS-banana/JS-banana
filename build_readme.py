@@ -1,12 +1,10 @@
 import feedparser
 import httpx
-import json
 import pathlib
 import re
-import os
-import datetime
 
-blog_feed_url = "https://ssscode.com/atom.xml"
+# blog_feed_url = "https://ssscode.com/atom.xml"
+blog_feed_url = "https://serverless-page-bucket-ybyz8f6i-1258454899.cos-website.ap-hongkong.myqcloud.com/atom.xml"
 wakatime_raw_url = "https://gist.githubusercontent.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc/raw/"
 
 root = pathlib.Path(__file__).parent.resolve()
