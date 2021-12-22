@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 16 hrs 39 mins ███████████▍░░░░░░░░░  54.5%
-Markdown   3 hrs 58 mins  ██▋░░░░░░░░░░░░░░░░░░  13.0%
-Vue.js     3 hrs 35 mins  ██▍░░░░░░░░░░░░░░░░░░  11.8%
-JavaScript 2 hrs 15 mins  █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Python     1 hr 30 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+TypeScript 14 hrs 16 mins ███████████▋░░░░░░░░░  56.0%
+Markdown   2 hrs 46 mins  ██▎░░░░░░░░░░░░░░░░░░  10.9%
+JavaScript 2 hrs 15 mins  █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Vue.js     1 hr 43 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Python     1 hr 30 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ Python     1 hr 30 mins   █░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
 * <a href='https://ssscode.com/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
 * <a href='https://ssscode.com/pages/2833ad/' target='_blank'>【vite】vite + vue3 + setup + pinia + ts</a> - 2021-11-22
 * <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
 * <a href='https://ssscode.com/pages/d42185/' target='_blank'>NodeJs获取照片信息并分类、缩略图生成</a> - 2021-11-14
-* <a href='https://ssscode.com/pages/34f09d/' target='_blank'>新一代ORM-Prisma</a> - 2021-10-27
 <!-- blog ends -->
 
 </td>
