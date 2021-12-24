@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 12 hrs 7 mins  ███████████▍░░░░░░░░░  54.7%
-Markdown   2 hrs 21 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-JavaScript 2 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░  10.1%
-Python     1 hr 30 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Vue.js     1 hr 19 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
+TypeScript 9 hrs 28 mins  ████████████▊░░░░░░░░  60.8%
+Markdown   1 hr 58 mins   ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Vue.js     1 hr 8 mins    █▌░░░░░░░░░░░░░░░░░░░   7.3%
+YAML       1 hr           █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Python     40 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 ```
 
 <!-- code_time ends -->
