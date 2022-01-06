@@ -46,14 +46,14 @@ JSON       1 hr 29 mins   █▏░░░░░░░░░░░░░░░░
 
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://js-banana.github.io/vuepress/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/8e4019/' target='_blank'>2021年终总结</a> - 2022-01-05
-* <a href='https://ssscode.com/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
-* <a href='https://ssscode.com/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
-* <a href='https://ssscode.com/pages/2833ad/' target='_blank'>【vite】vite + vue3 + setup + pinia + ts</a> - 2021-11-22
-* <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
+* <a href='https://js-banana.github.io/vuepress/pages/8e4019/' target='_blank'>2021年终总结</a> - 2022-01-05
+* <a href='https://js-banana.github.io/vuepress/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
+* <a href='https://js-banana.github.io/vuepress/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
+* <a href='https://js-banana.github.io/vuepress/pages/2833ad/' target='_blank'>【vite】vite + vue3 + setup + pinia + ts</a> - 2021-11-22
+* <a href='https://js-banana.github.io/vuepress/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
 <!-- blog ends -->
 
 </td>
