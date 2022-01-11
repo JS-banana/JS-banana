@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      17 hrs 52 mins ████████▎░░░░░░░░░░░░  39.5%
-Markdown   8 hrs 2 mins   ███▋░░░░░░░░░░░░░░░░░  17.8%
-TypeScript 7 hrs 44 mins  ███▌░░░░░░░░░░░░░░░░░  17.1%
-Vue.js     3 hrs 13 mins  █▍░░░░░░░░░░░░░░░░░░░   7.1%
-JSON       2 hrs 26 mins  █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Other      19 hrs 35 mins ███████▊░░░░░░░░░░░░░  37.4%
+Markdown   9 hrs 45 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+TypeScript 7 hrs 43 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
+Vue.js     6 hrs 8 mins   ██▍░░░░░░░░░░░░░░░░░░  11.7%
+LESS       2 hrs 48 mins  █▏░░░░░░░░░░░░░░░░░░░   5.4%
 ```
 
 <!-- code_time ends -->
@@ -49,7 +49,7 @@ JSON       2 hrs 26 mins  █▏░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://js-banana.github.io/vuepress/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://js-banana.github.io/vuepress/pages/8e4019/' target='_blank'>2021年终总结</a> - 2022-01-05
+* <a href='https://js-banana.github.io/vuepress/pages/8e4019/' target='_blank'>2021年终总结（技术篇）</a> - 2022-01-05
 * <a href='https://js-banana.github.io/vuepress/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
 * <a href='https://js-banana.github.io/vuepress/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
 * <a href='https://js-banana.github.io/vuepress/pages/2833ad/' target='_blank'>【vite】vite + vue3 + setup + pinia + ts</a> - 2021-11-22
