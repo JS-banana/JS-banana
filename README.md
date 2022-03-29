@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   13 hrs 41 mins ████████████░░░░░░░░░  57.7%
-TypeScript 4 hrs 29 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
-JavaScript 2 hrs 52 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
-Vue.js     2 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░   9.6%
-HTML       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Markdown   11 hrs 20 mins ██████████▎░░░░░░░░░░  49.3%
+TypeScript 5 hrs 18 mins  ████▊░░░░░░░░░░░░░░░░  23.1%
+JavaScript 3 hrs 9 mins   ██▉░░░░░░░░░░░░░░░░░░  13.7%
+Vue.js     2 hrs 28 mins  ██▎░░░░░░░░░░░░░░░░░░  10.8%
+JSON       25 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ HTML       18 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/8e4019/' target='_blank'>2021年终总结（技术篇）</a> - 2022-01-05
-* <a href='https://ssscode.com/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
-* <a href='https://ssscode.com/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
-* <a href='https://ssscode.com/pages/2833ad/' target='_blank'>vite + vue3 + setup + pinia + ts 项目实战</a> - 2021-11-22
-* <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
+* <a href='https://js-banana.github.io/blog/pages/8e4019/' target='_blank'>2021年终总结（技术篇）</a> - 2022-01-05
+* <a href='https://js-banana.github.io/blog/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
+* <a href='https://js-banana.github.io/blog/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
+* <a href='https://js-banana.github.io/blog/pages/2833ad/' target='_blank'>vite + vue3 + setup + pinia + ts 项目实战</a> - 2021-11-22
+* <a href='https://js-banana.github.io/blog/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
 <!-- blog ends -->
 
 </td>
