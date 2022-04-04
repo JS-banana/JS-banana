@@ -36,7 +36,7 @@
 ```text
 TypeScript 7 hrs 52 mins  ███████▏░░░░░░░░░░░░░  33.9%
 Vue.js     6 hrs 59 mins  ██████▎░░░░░░░░░░░░░░  30.1%
-Markdown   5 hrs 34 mins  █████░░░░░░░░░░░░░░░░  24.0%
+Markdown   5 hrs 35 mins  █████░░░░░░░░░░░░░░░░  24.1%
 JavaScript 2 hrs 5 mins   █▉░░░░░░░░░░░░░░░░░░░   9.0%
 JSON       39 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
