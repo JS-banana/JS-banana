@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 14 hrs 43 mins ███████▉░░░░░░░░░░░░░  38.1%
-Vue.js     10 hrs 37 mins █████▊░░░░░░░░░░░░░░░  27.5%
-Markdown   10 hrs 28 mins █████▋░░░░░░░░░░░░░░░  27.1%
-JavaScript 2 hrs          █░░░░░░░░░░░░░░░░░░░░   5.2%
-HTML       38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Markdown   15 hrs 26 mins ███████▌░░░░░░░░░░░░░  36.0%
+TypeScript 12 hrs 53 mins ██████▎░░░░░░░░░░░░░░  30.1%
+Vue.js     11 hrs 28 mins █████▌░░░░░░░░░░░░░░░  26.8%
+JavaScript 2 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+HTML       38 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ HTML       38 mins        ▎░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/b92fbe/' target='_blank'>JS类型与类型判断</a> - 2022-04-26
+* <a href='https://ssscode.com/pages/78d8b6/' target='_blank'>浏览器中JavaScript的运行机制（宏观篇）</a> - 2022-04-26
+* <a href='https://ssscode.com/pages/ff7971/' target='_blank'>多级别权限设计思考及实战</a> - 2022-04-25
 * <a href='https://ssscode.com/pages/8e4019/' target='_blank'>2021年终总结（技术篇）</a> - 2022-01-05
 * <a href='https://ssscode.com/pages/5fe09e/' target='_blank'>微信每天自动给女朋友发早安和情话</a> - 2021-12-21
-* <a href='https://ssscode.com/pages/33f292/' target='_blank'>vite + vue3 + ts 使用总结</a> - 2021-11-29
-* <a href='https://ssscode.com/pages/2833ad/' target='_blank'>vite + vue3 + setup + pinia + ts 项目实战</a> - 2021-11-22
-* <a href='https://ssscode.com/pages/b63015/' target='_blank'>使用WakaTime统计你的Coding数据</a> - 2021-11-20
 <!-- blog ends -->
 
 </td>
