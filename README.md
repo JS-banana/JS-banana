@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      13 hrs 36 mins █████████▏░░░░░░░░░░░  43.9%
-JavaScript 6 hrs 43 mins  ████▌░░░░░░░░░░░░░░░░  21.7%
-JSON       4 hrs 15 mins  ██▉░░░░░░░░░░░░░░░░░░  13.7%
-Vue.js     2 hrs 48 mins  █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Markdown   2 hrs 41 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
+JavaScript 8 hrs 57 mins  █████▊░░░░░░░░░░░░░░░  27.9%
+Markdown   7 hrs 54 mins  █████▏░░░░░░░░░░░░░░░  24.6%
+JSON       5 hrs 46 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
+Vue.js     5 hrs 8 mins   ███▎░░░░░░░░░░░░░░░░░  16.0%
+TypeScript 2 hrs 47 mins  █▊░░░░░░░░░░░░░░░░░░░   8.7%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ Markdown   2 hrs 41 mins  █▊░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://ssscode.com/pages/23154c/' target='_blank'>【前端组件化】具体方案</a> - 2022-08-18
+* <a href='https://ssscode.com/pages/af5c63/' target='_blank'>【前端组件化】yarn/pnpm/workspace/learn/changeset 分析</a> - 2022-08-18
+* <a href='https://ssscode.com/pages/f120e1/' target='_blank'>【前端组件化】方案探究</a> - 2022-08-18
 * <a href='https://ssscode.com/pages/4d7766/' target='_blank'>WebSocket连接过程及原理分析</a> - 2022-06-08
 * <a href='https://ssscode.com/pages/d8b0e2/' target='_blank'>Koa之洋葱模型分析</a> - 2022-04-30
-* <a href='https://ssscode.com/pages/b92fbe/' target='_blank'>JS类型、类型判断、类型转换</a> - 2022-04-26
-* <a href='https://ssscode.com/pages/78d8b6/' target='_blank'>浏览器中JavaScript的运行机制（宏观篇）</a> - 2022-04-26
-* <a href='https://ssscode.com/pages/ff7971/' target='_blank'>多级别权限设计思考及实战</a> - 2022-04-25
 <!-- blog ends -->
 
 </td>
