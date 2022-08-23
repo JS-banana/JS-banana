@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-JavaScript 7 hrs 7 mins   ██████▍░░░░░░░░░░░░░░  30.6%
-Markdown   5 hrs 26 mins  ████▉░░░░░░░░░░░░░░░░  23.4%
-JSON       4 hrs 9 mins   ███▊░░░░░░░░░░░░░░░░░  17.9%
-Vue.js     3 hrs 56 mins  ███▌░░░░░░░░░░░░░░░░░  17.0%
-TypeScript 1 hr 39 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
+Markdown   10 hrs 18 mins ████████▌░░░░░░░░░░░░  41.1%
+JavaScript 5 hrs 53 mins  ████▉░░░░░░░░░░░░░░░░  23.5%
+JSON       3 hrs 54 mins  ███▎░░░░░░░░░░░░░░░░░  15.6%
+Vue.js     1 hr 48 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
+TypeScript 1 hr 39 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
 ```
 
 <!-- code_time ends -->
@@ -49,8 +49,8 @@ TypeScript 1 hr 39 mins   █▍░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/23154c/' target='_blank'>【前端组件化】具体方案</a> - 2022-08-18
-* <a href='https://ssscode.com/pages/af5c63/' target='_blank'>【前端组件化】yarn/pnpm/workspace/learn/changeset 分析</a> - 2022-08-18
+* <a href='https://ssscode.com/pages/23154c/' target='_blank'>【前端组件化】pnpm + monorepo + changeset 的方案设计</a> - 2022-08-18
+* <a href='https://ssscode.com/pages/af5c63/' target='_blank'>【前端组件化】monorepo方案分析</a> - 2022-08-18
 * <a href='https://ssscode.com/pages/f120e1/' target='_blank'>【前端组件化】方案探究</a> - 2022-08-18
 * <a href='https://ssscode.com/pages/4d7766/' target='_blank'>WebSocket连接过程及原理分析</a> - 2022-06-08
 * <a href='https://ssscode.com/pages/d8b0e2/' target='_blank'>Koa之洋葱模型分析</a> - 2022-04-30
