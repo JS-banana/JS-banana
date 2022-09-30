@@ -34,11 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   53 mins        █████████████████▌░░░  83.5%
-JSON       8 mins         ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Git Config 1 min          ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-YAML       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Markdown   24 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
