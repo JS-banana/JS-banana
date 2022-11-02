@@ -34,10 +34,10 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 4 hrs          ████████████████▌░░░░  78.7%
-YAML       36 mins        ██▍░░░░░░░░░░░░░░░░░░  11.9%
-Markdown   28 mins        █▉░░░░░░░░░░░░░░░░░░░   9.4%
-JavaScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+TypeScript 1 hr 25 mins   ██████████████▋░░░░░░  69.9%
+YAML       18 mins        ███▏░░░░░░░░░░░░░░░░░  15.1%
+Markdown   18 mins        ███░░░░░░░░░░░░░░░░░░  14.8%
+JavaScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->
