@@ -34,9 +34,9 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   14 mins        ████████████████████▌  97.9%
-JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-TypeScript 0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Markdown   20 mins        ████████████░░░░░░░░░  57.5%
+YAML       9 mins         █████▋░░░░░░░░░░░░░░░  26.9%
+TypeScript 5 mins         ███▎░░░░░░░░░░░░░░░░░  15.6%
 ```
 
 <!-- code_time ends -->
