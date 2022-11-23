@@ -34,7 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 42 mins   ████████████████▊░░░░  80.1%
+Markdown   1 hr 42 mins   ████████████████▊░░░░  80.3%
 TypeScript 17 mins        ██▉░░░░░░░░░░░░░░░░░░  14.0%
 JSON       3 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 Vue.js     1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.5%
