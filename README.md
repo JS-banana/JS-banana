@@ -34,9 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   1 hr 51 mins   ████████████████████░  95.3%
-JSON       5 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Markdown   1 hr 9 mins    ███████████████████▋░  93.6%
+JSON       4 mins         █▎░░░░░░░░░░░░░░░░░░░   6.4%
 ```
 
 <!-- code_time ends -->
