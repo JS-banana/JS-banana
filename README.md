@@ -67,7 +67,7 @@ JavaScript 1 min          ░░░░░░░░░░░░░░░░░░
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-banana&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
   />
   <img
-  width="460"
+  width="507"
   src="https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&&theme=radical&layout=compact"
   />
 </p>
