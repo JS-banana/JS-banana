@@ -49,11 +49,11 @@ JavaScript 1 min          ░░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://ssscode.com/pages/c8aad6/' target='_blank'>虚拟列表——你需要知道的优雅处理大数据渲染的技巧</a> - 2023-03-30
-* <a href='https://ssscode.com/pages/394c89/' target='_blank'>vue编译为js的研究</a> - 2022-12-07
-* <a href='https://ssscode.com/pages/131a7a/' target='_blank'>【配置文件分析】——json、yaml、toml</a> - 2022-09-06
-* <a href='https://ssscode.com/pages/eb2149/' target='_blank'>【前端组件化】系列第二篇——monorepo方案实战</a> - 2022-09-05
-* <a href='https://ssscode.com/pages/f120e1/' target='_blank'>【前端组件化】系列第一篇——方案探究</a> - 2022-08-18
+* <a href='https://ssscode.com/pages/c8aad6/' target='_blank' title='虚拟列表——你需要知道的优雅处理大数据渲染的技巧' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>虚拟列表——你需要知道的优雅处理大数据渲染的技巧</a> - 2023-03-30
+* <a href='https://ssscode.com/pages/394c89/' target='_blank' title='vue编译为js的研究' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>vue编译为js的研究</a> - 2022-12-07
+* <a href='https://ssscode.com/pages/131a7a/' target='_blank' title='【配置文件分析】——json、yaml、toml' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>【配置文件分析】——json、yaml、toml</a> - 2022-09-06
+* <a href='https://ssscode.com/pages/eb2149/' target='_blank' title='【前端组件化】系列第二篇——monorepo方案实战' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>【前端组件化】系列第二篇——monorepo方案实战</a> - 2022-09-05
+* <a href='https://ssscode.com/pages/f120e1/' target='_blank' title='【前端组件化】系列第一篇——方案探究' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>【前端组件化】系列第一篇——方案探究</a> - 2022-08-18
 <!-- blog ends -->
 
 </td>
