@@ -32,12 +32,17 @@ def replace_chunk(content, marker, chunk, inline=False):
 def fetch_code_time():
     return httpx.get(wakatime_raw_url)
 
+# 优化展示长度
+def elipisisString(str):
+  if len(str) > 18:
+    return str[:18] + '...'
+  return str
 
 def fetch_blog_entries():
     entries = feedparser.parse(blog_feed_url)["entries"]
     return [
         {
-            "title": entry["title"],
+            "title": elipisisString(entry["title"]),
             "url": entry["link"].split("#")[0],
             "published": entry["published"].split("T")[0],
         }
@@ -54,7 +59,7 @@ if __name__ == "__main__":
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(
-        ["* <a href='{url}' target='_blank' title='{title}' style='display: inline-block;max-width: 280px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;vertical-align: top;'>{title}</a> - {published}".format(
+        ["* <a href='{url}' target='_blank' title='{title}'>{title}</a> - {published}".format(
             **entry) for entry in entries]
     )
     rewritten = replace_chunk(rewritten, "blog", entries_md)
