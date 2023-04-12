@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   6 hrs 2 mins   █████████████░░░░░░░░  62.3%
-Python     1 hr 24 mins   ███░░░░░░░░░░░░░░░░░░  14.5%
-TypeScript 46 mins        █▋░░░░░░░░░░░░░░░░░░░   7.9%
-XML        29 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-JSON       17 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Markdown   5 hrs 42 mins  ████████████▉░░░░░░░░  61.4%
+Python     1 hr 24 mins   ███▏░░░░░░░░░░░░░░░░░  15.2%
+TypeScript 45 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+XML        29 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON       16 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time ends -->
@@ -50,10 +50,10 @@ JSON       17 mins        ▋░░░░░░░░░░░░░░░░░
 
 <!-- blog starts -->
 * <a href='https://ssscode.com/pages/c8aad6/' target='_blank' title='虚拟列表——你需要知道的优雅处理大数据渲染的技巧'>虚拟列表——你需要知道的优雅处理大数...</a> - 2023-03-30
+* <a href='https://ssscode.com/pages/72eab4/' target='_blank' title='2022年终总结'>2022年终总结</a> - 2023-02-14
 * <a href='https://ssscode.com/pages/394c89/' target='_blank' title='vue编译为js的研究'>vue编译为js的研究</a> - 2022-12-07
 * <a href='https://ssscode.com/pages/131a7a/' target='_blank' title='【配置文件分析】——json、yaml、toml'>【配置文件分析】——json、yam...</a> - 2022-09-06
 * <a href='https://ssscode.com/pages/eb2149/' target='_blank' title='【前端组件化】系列第二篇——monorepo方案实战'>【前端组件化】系列第二篇——mono...</a> - 2022-09-05
-* <a href='https://ssscode.com/pages/f120e1/' target='_blank' title='【前端组件化】系列第一篇——方案探究'>【前端组件化】系列第一篇——方案探究</a> - 2022-08-18
 <!-- blog ends -->
 
 </td>
