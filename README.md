@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   6 hrs 35 mins  ██████████████▉░░░░░░  71.1%
-Python     1 hr 24 mins   ███▏░░░░░░░░░░░░░░░░░  15.2%
-XML        29 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-JavaScript 15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-JSON       15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Markdown   6 hrs 15 mins  ███████████████▏░░░░░  72.5%
+Python     1 hr 8 mins    ██▊░░░░░░░░░░░░░░░░░░  13.2%
+XML        29 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JavaScript 14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+JSON       14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time ends -->
