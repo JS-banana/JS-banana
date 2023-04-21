@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Markdown   8 hrs 3 mins   ██████████████████▉░░  90.2%
-JSON       21 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-YAML       12 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.4%
-TypeScript 8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other      5 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Markdown   9 hrs 31 mins  ███████████████████▏░  91.5%
+JSON       21 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+YAML       12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+TypeScript 8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Other      5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time ends -->
