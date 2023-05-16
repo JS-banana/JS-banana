@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      16 hrs 31 mins ███████████████████▉░  94.7%
-Vue.js     36 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Markdown   11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-JSON       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-JavaScript 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Other      14 hrs 8 mins  ███████████████████▊░  94.3%
+Vue.js     36 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Markdown   6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+JSON       5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+JavaScript 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
