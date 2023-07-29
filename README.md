@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      20 hrs 17 mins ████████████████▊░░░░  80.1%
-Markdown   4 hrs 42 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+Other      19 hrs 52 mins ████████████████▉░░░░  80.5%
+Markdown   4 hrs 29 mins  ███▊░░░░░░░░░░░░░░░░░  18.2%
 Text       6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Bash       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-YAML       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+YAML       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time ends -->
