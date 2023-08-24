@@ -34,9 +34,9 @@
 <!-- code_time starts -->
 
 ```text
-Other      19 hrs 5 mins  ████████████████████▋  98.8%
-Markdown   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-HTML       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Other      16 hrs 49 mins ████████████████████▋  98.6%
+Markdown   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+HTML       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
