@@ -34,7 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-Other      15 hrs 4 mins  █████████████████████ 100.0%
+Other      14 hrs 42 mins ████████████████████▉  99.9%
+HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time ends -->
