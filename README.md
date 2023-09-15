@@ -34,8 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      14 hrs 42 mins ████████████████████▉  99.9%
+Other      17 hrs 5 mins  ████████████████████▉  99.7%
+YAML       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Vue.js     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
