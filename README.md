@@ -34,10 +34,10 @@
 <!-- code_time starts -->
 
 ```text
-Other      12 hrs 38 mins ███████████████▋░░░░░  74.7%
-Markdown   2 hrs 13 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
-Vue.js     1 hr 14 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
-JavaScript 48 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Other      10 hrs 22 mins ████████████████▍░░░░  78.4%
+Markdown   1 hr 31 mins   ██▍░░░░░░░░░░░░░░░░░░  11.6%
+JavaScript 48 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Vue.js     31 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 Figma D... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
