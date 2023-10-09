@@ -34,11 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Other      1 hr 55 mins   ██████████▍░░░░░░░░░░  49.7%
-Markdown   59 mins        █████▍░░░░░░░░░░░░░░░  25.6%
-JavaScript 44 mins        ████░░░░░░░░░░░░░░░░░  19.2%
-Vue.js     12 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
-Figma D... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other      12 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
