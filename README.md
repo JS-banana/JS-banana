@@ -34,7 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Other      12 mins        █████████████████████ 100.0%
+Other      2 hrs 8 mins   █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
