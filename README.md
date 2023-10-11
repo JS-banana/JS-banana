@@ -34,7 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-Other      2 hrs 8 mins   █████████████████████ 100.0%
+Other      4 hrs 11 mins  ████████████████████▌  98.2%
+Vue.js     4 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time ends -->
