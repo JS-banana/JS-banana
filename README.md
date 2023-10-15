@@ -34,9 +34,9 @@
 <!-- code_time starts -->
 
 ```text
-Other      10 hrs 9 mins  ████████████████████▎  96.8%
-Markdown   15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Vue.js     4 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Other      12 hrs 54 mins ████████████████████▍  97.5%
+Markdown   15 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Vue.js     4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->
