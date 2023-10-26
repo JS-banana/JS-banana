@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Other      20 hrs 54 mins █████████████████▏░░░  81.8%
-Markdown   3 hrs 3 mins   ██▌░░░░░░░░░░░░░░░░░░  11.9%
-Vue.js     1 hr 32 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
-JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-TypeScript 1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Other      18 hrs 16 mins ███████████████▉░░░░░  76.0%
+Markdown   3 hrs 20 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+Vue.js     2 hrs 3 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
+TypeScript 10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+JSON       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time ends -->
@@ -50,7 +50,7 @@ TypeScript 1 min          ░░░░░░░░░░░░░░░░░░
 
 <!-- blog starts -->
 * <a href='https://js-banana.github.io/blog/pages/b50e04/' target='_blank' title='基于富文本编辑器的$关键字智能匹配功能'>基于富文本编辑器的$关键字智能匹配功...</a> - 2023-09-23
-* <a href='https://js-banana.github.io/blog/pages/c8aad6/' target='_blank' title='虚拟列表——你需要知道的优雅处理大数据渲染的技巧'>虚拟列表——你需要知道的优雅处理大数...</a> - 2023-03-30
+* <a href='https://js-banana.github.io/blog/pages/c8aad6/' target='_blank' title='虚拟列表入门篇——3分钟带你快速实现一个高性能列表组件'>虚拟列表入门篇——3分钟带你快速实现...</a> - 2023-03-30
 * <a href='https://js-banana.github.io/blog/pages/72eab4/' target='_blank' title='2022年终总结（技术篇）'>2022年终总结（技术篇）</a> - 2023-02-14
 * <a href='https://js-banana.github.io/blog/pages/394c89/' target='_blank' title='vue编译为js的研究'>vue编译为js的研究</a> - 2022-12-07
 * <a href='https://js-banana.github.io/blog/pages/131a7a/' target='_blank' title='【配置文件分析】——json、yaml、toml'>【配置文件分析】——json、yam...</a> - 2022-09-06
