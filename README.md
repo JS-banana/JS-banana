@@ -34,8 +34,9 @@
 <!-- code_time starts -->
 
 ```text
-Other      14 hrs 29 mins ████████████████████▎  97.0%
-Markdown   27 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Other      13 hrs         ████████████████████▋  98.6%
+YAML       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Markdown   4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time ends -->
