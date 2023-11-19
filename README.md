@@ -34,8 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-Other      28 hrs 14 mins ███████████████████░░  91.0%
-Markdown   2 hrs 24 mins  █▋░░░░░░░░░░░░░░░░░░░   7.7%
+Other      28 hrs 53 mins ███████████████████░░  91.0%
+Markdown   2 hrs 26 mins  █▌░░░░░░░░░░░░░░░░░░░   7.7%
 Vue.js     20 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 JSON       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
