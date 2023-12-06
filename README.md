@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 20 hrs 1 min   ██████████████████▉░░  90.4%
-Markdown   1 hr 51 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
-HTML       10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-JavaScript 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Browser... 13 hrs 24 mins ██████████████████▍░░  88.0%
+Markdown   1 hr 45 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
+JavaScript 2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time ends -->
