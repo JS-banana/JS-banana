@@ -34,8 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 9 hrs 7 mins   █████████████████▋░░░  84.5%
-Markdown   1 hr 40 mins   ███▎░░░░░░░░░░░░░░░░░  15.5%
+Browser... 7 hrs 8 mins   █████████████████░░░░  81.0%
+Markdown   1 hr 40 mins   ███▉░░░░░░░░░░░░░░░░░  19.0%
 ```
 
 <!-- code_time ends -->
