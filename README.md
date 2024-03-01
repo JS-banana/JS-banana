@@ -34,10 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 2 hrs 7 mins   █████████████████▎░░░  82.3%
-Markdown   18 mins        ██▍░░░░░░░░░░░░░░░░░░  11.9%
-HTML       5 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-JavaScript 3 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Browser... 3 hrs 56 mins  █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
