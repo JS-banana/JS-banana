@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 24 hrs 49 mins ████████████░░░░░░░░░  57.3%
-Markdown   10 hrs 31 mins █████░░░░░░░░░░░░░░░░  24.3%
-TypeScript 4 hrs 3 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
-HTML       3 hrs 4 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
-JavaScript 47 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Browser... 25 hrs 59 mins ████████████▊░░░░░░░░  61.2%
+Markdown   8 hrs 20 mins  ████▏░░░░░░░░░░░░░░░░  19.7%
+TypeScript 4 hrs 26 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
+HTML       2 hrs 49 mins  █▍░░░░░░░░░░░░░░░░░░░   6.7%
+JavaScript 47 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time ends -->
@@ -49,11 +49,11 @@ JavaScript 47 mins        ▍░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
+* <a href='https://js-banana.github.io/blog/pages/e4bf0d/' target='_blank' title='说说call、apply、bind是如何改变this的'>说说call、apply、bind是...</a> - 2024-03-29
+* <a href='https://js-banana.github.io/blog/pages/d865ca/' target='_blank' title='从输入 URL 到页面加载完成发生了什么？'>从输入 URL 到页面加载完成发生了...</a> - 2024-03-29
 * <a href='https://js-banana.github.io/blog/pages/8d9372/' target='_blank' title='JavaScript进阶—— new 的执行过程'>JavaScript进阶—— new...</a> - 2024-03-26
 * <a href='https://js-banana.github.io/blog/pages/131b3a/' target='_blank' title='JavaScript进阶——map与reduce的前世今生😋'>JavaScript进阶——map与...</a> - 2024-03-24
 * <a href='https://js-banana.github.io/blog/pages/17a56a/' target='_blank' title='作用域与闭包'>作用域与闭包</a> - 2024-03-21
-* <a href='https://js-banana.github.io/blog/pages/be6faa/' target='_blank' title='执行上下文'>执行上下文</a> - 2024-03-20
-* <a href='https://js-banana.github.io/blog/pages/b50e04/' target='_blank' title='基于富文本编辑器的$关键字智能匹配功能'>基于富文本编辑器的$关键字智能匹配功...</a> - 2023-09-23
 <!-- blog ends -->
 
 </td>
