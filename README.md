@@ -34,9 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 5 hrs 40 mins  █████████████████▋░░░  83.9%
-Markdown   1 hr 5 mins    ███▎░░░░░░░░░░░░░░░░░  16.0%
-TypeScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Browser... 3 hrs 43 mins  █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
