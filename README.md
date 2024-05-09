@@ -34,7 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 49 mins        █████████████████████ 100.0%
+Browser... 0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
