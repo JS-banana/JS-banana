@@ -34,11 +34,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 29 hrs 7 mins  █████████████████░░░░  81.1%
-JSON       4 hrs 52 mins  ██▊░░░░░░░░░░░░░░░░░░  13.6%
-JavaScript 1 hr 15 mins   ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Browser... 22 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Markdown   8 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+TypeScript 22 hrs 1 min   ████████████████▌░░░░  78.7%
+JSON       4 hrs 36 mins  ███▍░░░░░░░░░░░░░░░░░  16.5%
+JavaScript 1 hr 2 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Markdown   7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Browser... 3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->
