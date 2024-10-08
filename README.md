@@ -34,8 +34,7 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 3 mins         ██████████▊░░░░░░░░░░  51.4%
-Browser... 3 mins         ██████████▏░░░░░░░░░░  48.6%
+Browser... 3 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time ends -->
