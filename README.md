@@ -34,7 +34,9 @@
 <!-- code_time starts -->
 
 ```text
-Browser... 3 mins         █████████████████████ 100.0%
+TypeScript 50 mins        ████████████████████▎  96.8%
+JSON       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+JavaScript 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time ends -->
