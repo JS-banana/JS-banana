@@ -34,8 +34,8 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 12 hrs 6 mins  █████████████████▍░░░  83.3%
-Browser... 1 hr 44 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
+TypeScript 12 hrs 6 mins  █████████████████▍░░░  83.1%
+Browser... 1 hr 46 mins   ██▌░░░░░░░░░░░░░░░░░░  12.2%
 JSON       40 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
 Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
