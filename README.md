@@ -34,10 +34,10 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 23 hrs 27 mins ███████████████████▌░  92.9%
-JSON       1 hr 12 mins   █░░░░░░░░░░░░░░░░░░░░   4.8%
-JavaScript 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Less       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+TypeScript 19 hrs 54 mins ███████████████████▎░  91.7%
+JSON       1 hr 12 mins   █▏░░░░░░░░░░░░░░░░░░░   5.6%
+JavaScript 22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Less       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 TSConfig   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
