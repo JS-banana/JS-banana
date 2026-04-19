@@ -6,7 +6,6 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/JS-banana)
 [![sssgoEasy](https://img.shields.io/badge/juejin-sssgoEasy-blue)](https://juejin.cn/user/1204720476890477)
 [![小帅の技术博客](https://img.shields.io/badge/blog-%E5%B0%8F%E5%B8%85%E3%81%AE%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-orange)](https://js-banana.github.io/blog)
 [![前端小帅](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-brightgreen)](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/1.jpg)
