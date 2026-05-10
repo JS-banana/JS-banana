@@ -44,7 +44,7 @@ jobs:
         with:
           card: top-langs
           options: username=JS-banana&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images,jack&bg_color=30,e96443,904e95&title_color=fff&text_color=fff
-          path: profile/top-langs.svg
+          path: ${{ github.workspace }}/profile/top-langs.svg
           token: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Generate stats card
@@ -52,7 +52,7 @@ jobs:
         with:
           card: stats
           options: username=JS-banana&show_icons=true&theme=radical&layout=compact
-          path: profile/stats.svg
+          path: ${{ github.workspace }}/profile/stats.svg
           token: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Commit cards

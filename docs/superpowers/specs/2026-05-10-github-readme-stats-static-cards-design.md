@@ -15,7 +15,7 @@ Replace the fragile public `github-readme-stats.vercel.app` image dependency wit
 
 ## Approach
 
-Use `readme-tools/github-readme-stats-action@v1`, the GitHub Actions path recommended by the upstream `github-readme-stats` documentation. Generate the two cards into `profile/` and update README to reference local SVG files:
+Use `readme-tools/github-readme-stats-action@v1`, the GitHub Actions path recommended by the upstream `github-readme-stats` documentation. The action resolves `path` from its own action directory, so the workflow passes absolute `${{ github.workspace }}/profile/*.svg` output paths. Generate the two cards into `profile/` and update README to reference local SVG files:
 
 - `profile/top-langs.svg`
 - `profile/stats.svg`
