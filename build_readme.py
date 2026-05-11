@@ -2,7 +2,6 @@ import feedparser
 import httpx
 import pathlib
 import re
-import time
 
 # blog_feed_url = "https://ssscode.com/atom.xml"
 # blog_feed_url = "https://serverless-page-bucket-ybyz8f6i-1258454899.cos-website.ap-hongkong.myqcloud.com/atom.xml"
@@ -40,8 +39,13 @@ def elipisisString(str):
   return str
 
 def format_published(entry):
-    if entry.get("published_parsed"):
-        return time.strftime("%Y-%m-%d", entry["published_parsed"])
+    published_parsed = entry.get("published_parsed")
+    if published_parsed:
+        return "{:04d}-{:02d}-{:02d}".format(
+            published_parsed.tm_year,
+            published_parsed.tm_mon,
+            published_parsed.tm_mday,
+        )
     return entry.get("published", "").split("T")[0]
 
 def fetch_blog_entries():
