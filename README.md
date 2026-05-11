@@ -48,11 +48,9 @@ Less       9 mins         ▏░░░░░░░░░░░░░░░░░
 #### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://js-banana.github.io/blog/pages/e4bf0d/' target='_blank' title='说说call、apply、bind是如何改变this的'>说说call、apply、bind是...</a> - 2024-03-29
-* <a href='https://js-banana.github.io/blog/pages/d865ca/' target='_blank' title='从输入 URL 到页面加载完成发生了什么？'>从输入 URL 到页面加载完成发生了...</a> - 2024-03-29
-* <a href='https://js-banana.github.io/blog/pages/8d9372/' target='_blank' title='JavaScript进阶—— new 的执行过程'>JavaScript进阶—— new...</a> - 2024-03-26
-* <a href='https://js-banana.github.io/blog/pages/131b3a/' target='_blank' title='JavaScript进阶——map与reduce的前世今生😋'>JavaScript进阶——map与...</a> - 2024-03-24
-* <a href='https://js-banana.github.io/blog/pages/17a56a/' target='_blank' title='作用域与闭包'>作用域与闭包</a> - 2024-03-21
+* <a href='https://blog.laifuyou.com/posts/2026/tauri-to-electron-ai-chat-backup/' target='_blank' title='我做了两个工具，一个 7MB 的壳，一个会记住的壳'>我做了两个工具，一个 7MB 的壳，...</a> - 
+* <a href='https://blog.laifuyou.com/posts/2026/openclaw-vs-claude-code-differences/' target='_blank' title='你问我 OpenClaw 和 Claude Code 有什么区别'>你问我 OpenClaw 和 Cla...</a> - 
+* <a href='https://blog.laifuyou.com/posts/2026/ai-writing-code-developer-meaning/' target='_blank' title='同事问我你代码都让 AI 写那我们开发的意义是什么呢？'>同事问我你代码都让 AI 写那我们开...</a> - Mon, 09 Mar 2026 00:00:00 GM
 <!-- blog ends -->
 
 </td>
