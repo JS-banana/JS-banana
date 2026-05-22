@@ -33,11 +33,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 7 hrs 10 mins  █████████████▍░░░░░░░  63.9%
-Other      2 hrs 17 mins  ████▎░░░░░░░░░░░░░░░░  20.4%
-Markdown   1 hr 1 min     █▉░░░░░░░░░░░░░░░░░░░   9.1%
-SSH Config 19 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-JSON       14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+TypeScript 3 hrs 31 mins  █████████████▊░░░░░░░  65.9%
+Other      52 mins        ███▍░░░░░░░░░░░░░░░░░  16.3%
+Markdown   15 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+JSON       14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+YAML       13 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
 ```
 
 <!-- code_time ends -->
