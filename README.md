@@ -33,11 +33,11 @@
 <!-- code_time starts -->
 
 ```text
-TypeScript 7 hrs 30 mins  ██████▌░░░░░░░░░░░░░░  31.1%
-Markdown   4 hrs 41 mins  ████░░░░░░░░░░░░░░░░░  19.4%
-Other      2 hrs 55 mins  ██▌░░░░░░░░░░░░░░░░░░  12.1%
-Swift      2 hrs 39 mins  ██▎░░░░░░░░░░░░░░░░░░  11.0%
-Less       1 hr 48 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Markdown   8 hrs          █████▋░░░░░░░░░░░░░░░  27.3%
+TypeScript 7 hrs 59 mins  █████▋░░░░░░░░░░░░░░░  27.2%
+Swift      5 hrs 44 mins  ████░░░░░░░░░░░░░░░░░  19.6%
+Other      3 hrs 9 mins   ██▎░░░░░░░░░░░░░░░░░░  10.7%
+Python     1 hr 7 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time ends -->
