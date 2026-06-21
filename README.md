@@ -24,39 +24,16 @@
 
 <!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<table width="800px">
-<tr>
-<td valign="top" width="50%">
-
-#### 🏊‍♂️ <a href="https://gist.github.com/JS-banana/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
-
-<!-- code_time starts -->
-
-```text
-TypeScript 16 hrs 43 mins ███████████▊░░░░░░░░░  56.4%
-Markdown   8 hrs 4 mins   █████▋░░░░░░░░░░░░░░░  27.2%
-Other      1 hr 7 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-JSON       1 hr 3 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-Text       59 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-```
-
-<!-- code_time ends -->
-</td>
-
-<td valign="top" width="50%">
-
-#### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://blog.laifuyou.com/posts/2026/tauri-to-electron-ai-chat-backup/' target='_blank' title='我做了两个工具，一个 7MB 的壳，一个会记住的壳'>我做了两个工具，一个 7MB 的壳，...</a> - 2026-05-05
-* <a href='https://blog.laifuyou.com/posts/2026/openclaw-vs-claude-code-differences/' target='_blank' title='你问我 OpenClaw 和 Claude Code 有什么区别'>你问我 OpenClaw 和 Cla...</a> - 2026-03-26
-* <a href='https://blog.laifuyou.com/posts/2026/ai-writing-code-developer-meaning/' target='_blank' title='同事问我你代码都让 AI 写那我们开发的意义是什么呢？'>同事问我你代码都让 AI 写那我们开...</a> - 2026-03-09
-<!-- blog ends -->
-
-</td>
-</tr>
-
-</table>
+<p>
+  <img
+  width="50%"
+  src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-language.svg"
+  />
+  <img
+  width="50%"
+  src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-ai.svg"
+  />
+</p>
 
 <p>
   <img

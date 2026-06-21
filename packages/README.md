@@ -1,7 +1,3 @@
 # 各功能包
 
-## wakatime
-
-使用时间统计
-
-已由 <https://github.com/JS-banana/waka-box> 仓库单独处理
+WakaTime 与开发统计展示已迁移至 [`JS-banana/dev-stats`](https://github.com/JS-banana/dev-stats) 仓库。
