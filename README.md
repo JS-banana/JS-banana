@@ -26,11 +26,11 @@
 
 <p>
   <img
-  width="50%"
+  width="420"
   src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-language.svg"
   />
   <img
-  width="50%"
+  width="420"
   src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-ai.svg"
   />
 </p>
