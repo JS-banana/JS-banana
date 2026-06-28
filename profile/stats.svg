@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Panionk's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 923, Total Commits  (last year) : 590, Total PRs: 88, Total Issues: 165, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 923, Total Commits  (last year) : 591, Total PRs: 88, Total Issues: 165, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 54.31240050818777;
+        stroke-dashoffset: 54.28980920151789;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >590</text>
+      >591</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
