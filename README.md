@@ -21,7 +21,7 @@
 
 <!-- [![sss's github stats](https://github-readme-stats.vercel.app/api?username=JS-banana&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p>
+<!-- <p>
   <img
   width="420"
   src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-language.svg"
@@ -30,7 +30,7 @@
   width="420"
   src="https://raw.githubusercontent.com/JS-banana/dev-stats/main/assets/wakatime-ai.svg"
   />
-</p>
+</p> -->
 
 <p>
   <img
